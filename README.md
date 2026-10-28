@@ -27,6 +27,24 @@ NutriBuddy brings food logging, water tracking, weight trends, personalized meal
 
 **Connectivity:** Core local recording flows are designed to work offline. Cloud synchronization, authentication requests, and AI-backed features depend on the relevant network services.
 
+## App Screenshots / Uygulama Görselleri
+
+Real screens from the NutriBuddy development build. Publish only with synthetic demo data; the application is not a medical device.
+
+NutriBuddy geliştirme sürümünden gerçek ekran görüntüleri. Yalnızca örnek/test verileri içeren görüntüleri yayımlayın; uygulama tıbbi cihaz değildir.
+
+| **Authentication / Giriş** | **Nutrition Dashboard / Beslenme paneli** | **Water Tracking / Su takibi** |
+| --- | --- | --- |
+| <img src="docs/screenshots/01-authentication.png" alt="Registration and sign-in / Kayıt ve oturum" width="220" /> | <img src="docs/screenshots/03-dashboard-overview.png" alt="Daily energy and macros / Günlük enerji ve makrolar" width="220" /> | <img src="docs/screenshots/04-water-tracking.png" alt="Daily water progress / Günlük su ilerlemesi" width="220" /> |
+| **AI Meal Builder / AI öğün oluşturucu** | **AI Recipes / AI tarifleri** | **AI Dietitian / AI beslenme asistanı** |
+| <img src="docs/screenshots/05-ai-meal-builder.png" alt="Ingredient preferences / Malzeme tercihleri" width="220" /> | <img src="docs/screenshots/06-ai-recipe-results.png" alt="Recipe suggestions / Tarif önerileri" width="220" /> | <img src="docs/screenshots/08-ai-dietitian-sources.png" alt="Answers with sources / Kaynaklı yanıtlar" width="220" /> |
+| **Buddy Companion / Buddy arkadaş** | **Buddy Store / Buddy mağazası** | **Analytics / Analizler** |
+| <img src="docs/screenshots/10-buddy-companion.png" alt="Animated companion / Animasyonlu arkadaş" width="220" /> | <img src="docs/screenshots/11-buddy-store.png" alt="Rewards and store / Ödüller ve mağaza" width="220" /> | <img src="docs/screenshots/12-analytics-calories.png" alt="Nutrition trends / Beslenme eğilimleri" width="220" /> |
+
+Additional screens, including onboarding, conversation history, detailed analytics, and the Rive state-machine editor, are available in [`docs/screenshots/`](docs/screenshots/).
+
+Onboarding, sohbet geçmişi, ayrıntılı analizler ve Rive durum makinesi editörü dâhil diğer görüntüler [`docs/screenshots/`](docs/screenshots/) klasöründedir.
+
 ## Technology stack
 
 - **Client:** Flutter 3.47+, Dart 3.13+, Material UI
