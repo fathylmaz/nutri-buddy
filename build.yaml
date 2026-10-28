@@ -1,0 +1,8 @@
+# build_runner automatically discovers riverpod_generator, freezed,
+# json_serializable, and isar_community_generator through dependencies.
+targets:
+  $default:
+    builders:
+      riverpod_generator:
+        options:
+          provider_name_suffix: Provider

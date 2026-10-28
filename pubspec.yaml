@@ -1,0 +1,47 @@
+name: nutri_buddy
+description: Offline-first nutrition companion with secure meal vision analysis.
+publish_to: none
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.13.0 <4.0.0'
+  flutter: '>=3.47.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management and immutable domain objects
+  flutter_riverpod: ^3.4.3
+  riverpod_annotation: ^4.0.7
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.12.0
+
+  # Local-first + remote infrastructure
+  isar_community: ^3.4.1
+  isar_community_flutter_libs: ^3.4.1
+  supabase_flutter: ^2.18.3
+  path_provider: ^2.1.6
+  connectivity_plus: ^7.3.2
+
+  # Presentation and routing
+  go_router: ^18.1.0
+  rive: ^0.14.11
+  fl_chart: ^1.2.0
+  image_picker: ^1.2.4
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: 2.16.2
+  riverpod_generator: ^4.0.9
+  freezed: ^4.0.2
+  json_serializable: ^6.14.1
+  isar_community_generator: ^3.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/rive/

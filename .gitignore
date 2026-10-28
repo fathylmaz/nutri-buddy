@@ -1,0 +1,69 @@
+# Flutter and Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.log
+
+# IDE, platform build files
+.idea/
+*.iml
+.vscode/*.log
+.gradle/
+android/.gradle/
+ios/Pods/
+macos/Pods/
+
+# Local configuration. These are build time definitions, not secret storage.
+
+# Local configuration
+.env
+.env.*
+.env*.json
+
+# Safe example files only (never include real credentials)
+!.env.example
+!.env.example.json
+
+
+# Native/platform generated local files
+android/local.properties
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+
+# Android signing and private credentials
+android/key.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+*service-account*.json
+*service_account*.json
+
+# Local databases and private data
+*.isar
+*.isar.lock
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+# Local editor configuration
+.vscode/
+
+# Temporary backup copies
+*.bak
+
+# Historical Edge Function backup versions
+supabase/functions/**/index.before_*.ts
+
+# Local Rive design backups
+/design/rive/nutri_buddy_backup*/
+
+# Historical Rive asset backups
+/assets/rive/nutri_buddy_before_*.riv

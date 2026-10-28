@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+  <ellipse id="shadow" cx="160" cy="282" rx="77.00" ry="10.50" fill="#24493D" fill-opacity="0.15" transform="rotate(0.0000 160 282)"/>
+  <ellipse id="leaf_left" cx="121" cy="59" rx="35.00" ry="24.50" fill="#4A9F6D" fill-opacity="1" transform="rotate(-35.5234 121 59)"/>
+  <ellipse id="leaf_right" cx="196" cy="59" rx="35.00" ry="24.50" fill="#55B579" fill-opacity="1" transform="rotate(35.5234 196 59)"/>
+  <ellipse id="sprout_stem" cx="162" cy="67" rx="12.50" ry="21.50" fill="#3D9163" fill-opacity="1" transform="rotate(0.0000 162 67)"/>
+  <ellipse id="left_leg" cx="109" cy="261" rx="31.50" ry="21.50" fill="#559F6B" fill-opacity="1" transform="rotate(-14.3239 109 261)"/>
+  <ellipse id="right_leg" cx="207" cy="261" rx="31.50" ry="21.50" fill="#559F6B" fill-opacity="1" transform="rotate(14.3239 207 261)"/>
+  <ellipse id="left_arm" cx="80" cy="201" rx="26.00" ry="47.00" fill="#63BE88" fill-opacity="1" transform="rotate(-29.7938 80 201)"/>
+  <ellipse id="right_arm" cx="239" cy="201" rx="26.00" ry="47.00" fill="#63BE88" fill-opacity="1" transform="rotate(29.7938 239 201)"/>
+  <ellipse id="body_shadow" cx="160" cy="204" rx="83.50" ry="75.50" fill="#6BBF83" fill-opacity="1" transform="rotate(0.0000 160 204)"/>
+  <ellipse id="body" cx="160" cy="196" rx="78.50" ry="77.00" fill="#93DA8E" fill-opacity="1" transform="rotate(0.0000 160 196)"/>
+  <ellipse id="belly" cx="160" cy="213" rx="55.50" ry="56.00" fill="#FFF2CE" fill-opacity="1" transform="rotate(0.0000 160 213)"/>
+  <ellipse id="belly_leaf_left" cx="147" cy="217" rx="14.00" ry="21.50" fill="#73B85B" fill-opacity="1" transform="rotate(-34.9504 147 217)"/>
+  <ellipse id="belly_leaf_right" cx="171" cy="212" rx="14.00" ry="21.50" fill="#89C968" fill-opacity="1" transform="rotate(34.9504 171 212)"/>
+  <ellipse id="face_shadow" cx="160" cy="142" rx="101.50" ry="83.00" fill="#66B985" fill-opacity="1" transform="rotate(0.0000 160 142)"/>
+  <ellipse id="head" cx="160" cy="133" rx="97.50" ry="84.00" fill="#B9EB9E" fill-opacity="1" transform="rotate(0.0000 160 133)"/>
+  <ellipse id="forehead_gloss" cx="125" cy="100" rx="46.50" ry="24.50" fill="#D5F6B4" fill-opacity="0.8" transform="rotate(-7.4485 125 100)"/>
+  <ellipse id="left_eye_white" cx="116" cy="143" rx="19.00" ry="25.00" fill="#F9FFF3" fill-opacity="1" transform="rotate(0.0000 116 143)"/>
+  <ellipse id="right_eye_white" cx="201" cy="143" rx="19.00" ry="25.00" fill="#F9FFF3" fill-opacity="1" transform="rotate(0.0000 201 143)"/>
+  <ellipse id="left_eye" cx="117" cy="147" rx="13.00" ry="19.00" fill="#183E36" fill-opacity="1" transform="rotate(0.0000 117 147)"/>
+  <ellipse id="right_eye" cx="201" cy="147" rx="13.00" ry="19.00" fill="#183E36" fill-opacity="1" transform="rotate(0.0000 201 147)"/>
+  <ellipse id="left_eye_glint" cx="111" cy="135" rx="5.00" ry="6.00" fill="#FFFFFF" fill-opacity="1" transform="rotate(0.0000 111 135)"/>
+  <ellipse id="right_eye_glint" cx="195" cy="135" rx="5.00" ry="6.00" fill="#FFFFFF" fill-opacity="1" transform="rotate(0.0000 195 135)"/>
+  <ellipse id="cheek_left" cx="79" cy="181" rx="20.00" ry="12.00" fill="#F9A49D" fill-opacity="0.9" transform="rotate(0.0000 79 181)"/>
+  <ellipse id="cheek_right" cx="246" cy="181" rx="20.00" ry="12.00" fill="#F9A49D" fill-opacity="0.9" transform="rotate(0.0000 246 181)"/>
+  <ellipse id="mouth" cx="162" cy="183" rx="14.50" ry="7.50" fill="#244D3E" fill-opacity="1" transform="rotate(0.0000 162 183)"/>
+  <ellipse id="mouth_tongue" cx="162" cy="187" rx="10.00" ry="3.50" fill="#F59B95" fill-opacity="1" transform="rotate(0.0000 162 187)"/>
+</svg>
