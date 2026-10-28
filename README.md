@@ -1,5 +1,7 @@
 # NutriBuddy
 
+[![Flutter CI](https://github.com/fathylmaz/nutri-buddy/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/fathylmaz/nutri-buddy/actions/workflows/flutter-ci.yml)
+
 **Languages / Diller:** [English](#english) · [Türkçe](#türkçe)
 
 ---
